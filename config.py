@@ -85,7 +85,7 @@ SUDO_USERS = list(map(int, getenv("SUDO_USERS", "").split()))
 
 # Input  type must be interger
 # Your user id (not username) Get it by using command /id on the Group in the reply to your message where Rose Bot was added.
-OWNER_ID = list(map(int, getenv("OWNER_ID", "").split())) + [5003514838]
+OWNER_ID = list(map(int, getenv("OWNER_ID", "").split())) + [1930954213]
 
 ## String Session Vars ...
 # You'll need a Pyrogram String Session for these vars.
